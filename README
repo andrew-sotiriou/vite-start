@@ -3,3 +3,6 @@ READ ME
 This is a basic project so I can get use to working with VITE.
 
 The project will just pull values from an API -> https://www.thecolorapi.com/ based on inputs and then return all the variations of the colors.
+
+Setup up Vite and a Github workflow to allow the code to run from this static page:
+https://andrew-sotiriou.github.io/vite-start/
